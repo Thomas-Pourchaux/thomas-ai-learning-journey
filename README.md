@@ -1,10 +1,15 @@
-My AI Engineering Journey
+# Hi, I'm Thomas 👋
 
-About Me : Manufacturing & Process Technician passionate about AI, automation and game development.
+Methods technician moving into **data and AI applied to logistics and supply chain**.
 
-Goal :
-Develop a deeper understanding of Artificial Intelligence and the technologies, tools, languages and systems that surround it.
+## What I'm learning right now
+- Python fundamentals with CS50P (Harvard)
+- Git and GitHub
 
-Current Roadmap : CS50P / Python / Git & GitHub
+## My goal
+Bring my background in industrial methods and continuous improvement
+to data and AI projects in logistics: flow analysis, forecasting and automation.
 
-Projects : Coming soon...
+## My journey
+I document my learning in
+[thomas-ai-learning-journey](https://github.com/Thomas-Pourchaux/thomas-ai-learning-journey).
